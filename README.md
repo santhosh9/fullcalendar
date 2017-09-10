@@ -1,5 +1,6 @@
 FullCalendar-Ajax-Php-Mysql
 ===========================
+THis is just for a test.
 
 FullCalendar with insert, add, edit and delete options (Ajax/PHP/Mysql)
 
