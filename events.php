@@ -5,7 +5,7 @@ $json = array();
 // Query that retrieves events
 $request = "SELECT * FROM events ORDER BY id";
 
-// connection to the database
+//database connetion 
 try {
     $bdd = new PDO('mysql:host=localhost;dbname=fullcalendar', 'root', 'root');
 } catch (Exception $e) {
