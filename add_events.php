@@ -4,6 +4,8 @@ $title = $_POST['title'];
 $start = $_POST['start'];
 $end = $_POST['end'];
 
+//test comment
+
 // connection to the database
 try {
     $bdd = new PDO('mysql:host=localhost;dbname=fullcalendar', 'root', 'root');
